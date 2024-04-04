@@ -1,2 +1,2 @@
 # Ecommerce-Website
-This a frontend website design for a website for computer parts. (prototype)
+Frontend design for a website for an eCommerce website for selling computers and it's part.
