@@ -5,3 +5,5 @@ This website is built using HTML, CSS, Javascript and PHP.
 All the pages that are here in the Git repo are part of the website. 
 "index.html" is the parent page of the website. All the other pages are hyperlinked to each other and the navigation is made extremely simple. 
 You can navigate through the whole website easity. 
+
+To use this website, make a folder with name "assets" in it and drag and drop the folder 'css'. 'img', 'js', and 'vendor' into it.
